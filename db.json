@@ -13,6 +13,32 @@
       "id": 4
     }
   ],
-  "albums": [{ "id": 10, "title": "The Wall", "userId": 1 }],
+  "albums": [
+    {
+      "id": 10,
+      "title": "The Wall",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Soft Bacon",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Plastic Chicken",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Bronze Bike",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Wooden Salad",
+      "id": 14
+    }
+  ],
   "photos": []
 }
